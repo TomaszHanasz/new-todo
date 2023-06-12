@@ -1,0 +1,8 @@
+.single_todo {
+  display: flex;
+  margin: 15px 0;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
